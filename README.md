@@ -9,6 +9,8 @@ Für jede Aufgabe wird eine lokale Konfiguration erstellt werden, die den Aufgab
 Das Skript führt das Hauptprogramm für verschiedene Eingabedateien aus und sammelt die Ausgaben, die in die Dokumentation eingefügt werden.
 Basierend auf den Konfigurationsdaten und den Beispielausgaben wird eine LaTeX-Dokumentation generiert und in einer `documentation.txt`-Datei gespeichert.
 
+**Hinweis:** Die Funktionalität ist auch verfügbar über `from zeckendorf.bwinf_docu_writer import DocumentationWriter`.
+
 ## Verwendung
 
 1. Stellen Sie sicher, dass Sie Python 3 installiert haben.
